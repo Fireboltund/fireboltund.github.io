@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-weight: 400;
+    text-decoration: #ee4d2d underline wavy;
+    letter-spacing: 15px;
+    font-size: 80px;
+    font-family: fantasy; 
+    text-decoration: wavy #plum
+
+}
+
+a {
+    text-decoration: none;
+}
+
+p{
+    line-height: 2.5;
+}s
