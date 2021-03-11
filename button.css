@@ -23,7 +23,6 @@ box-shadow: 0 0.5em 0.5em -0.4em  #f1f55c;
 transform: translateY(-0.25em);
 }
 
-/* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
   overflow: hidden;
